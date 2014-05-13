@@ -1,0 +1,26 @@
+{
+  "name": "EdgeExample",
+  "version": "0.0.0",
+  "description": "Here is a demo repo for demoing Edge.js. :D",
+  "main": "index.js",
+  "dependencies": {
+    "node-gyp": "~0.13.0",
+    "edge": "~0.8.0"
+  },
+  "devDependencies": {
+    "edge": "~0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rizowski/Edge.js-Example.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rizowski/Edge.js-Example/issues"
+  },
+  "homepage": "https://github.com/rizowski/Edge.js-Example"
+}
